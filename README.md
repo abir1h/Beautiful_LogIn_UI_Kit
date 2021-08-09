@@ -1,6 +1,9 @@
 # login_ui_kit
 
-A new Flutter application.
+A new Flutter application.\n\n
+![image](https://user-images.githubusercontent.com/74234131/128669698-0f9a9806-3cfc-493f-89f9-4027fb603c1a.png)
+![image](https://user-images.githubusercontent.com/74234131/128669733-261e488b-495d-4c65-85e7-1965d733d364.png)
+
 
 ## Getting Started
 
